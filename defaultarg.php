@@ -21,7 +21,7 @@
 
  		percentage(100,100,100);
  		percentage(50,49,11);
- 		percentage(11,22,30,90);
+ 		percentage(11,22,30,90,200);
 
 
 ?>
